@@ -1,5 +1,5 @@
 # Kickstarting with Excel
-![test image](/category_outcomes.png)
+
 ## Overview of Project
 
 ### Purpose
