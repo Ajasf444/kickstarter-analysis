@@ -13,7 +13,7 @@
 ### Challenges and Difficulties Encountered
 
 ## Results
-![Image test](https://github.com/Ajasf444/kickstarter-analysis/blob/main/category_outcomes.png)
+[//]: # (![Image test](https://github.com/Ajasf444/kickstarter-analysis/blob/main/category_outcomes.png))
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
 - What can you conclude about the Outcomes based on Goals?
