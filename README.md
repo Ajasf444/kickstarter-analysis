@@ -11,7 +11,14 @@ To this end, Kickstarter campaign funding data for years ranging from mid 2009 t
 ### Analysis of Outcomes Based on Launch Date
 ![outcomes based on launch date](/resources/Theater_Outcomes_vs_Launch.png)
 
+The figure above was generated via Excel as a pivot chart based off of a pivot table. 
+This pivot table accumulated the outcomes of all Kickstarter campaigns categorized as the "theater" type sorted by their monthly launch date.
+This chart easily allows one to visualize and interpret the monthly successes, failures, and cancellations of the campaigns launch dates.
 
+The creation of the pivot table was the most challenging part.
+The default Kickstarter data doesn't have a column for months.
+However, the launch date does contain the month as part of its data.
+Thus generating the months as row was a relatively simple task.
 ### Analysis of Outcomes Based on Goals
 
 ### Challenges and Difficulties Encountered
