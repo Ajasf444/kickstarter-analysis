@@ -3,7 +3,7 @@
 ## Overview of Project
 
 ### Purpose
-  The client, Louise, would like to have an analysis done on annual Kickstarter funding data to make a more informed decision on how to make the launch of a Kickstarter campaign for her play, **Fever**, successful.
+  The client, Louise, would like to have an analysis done on annual Kickstarter funding data to make a more informed decision on how to make the launch of a Kickstarter campaign for her play, * *Fever* *, successful.
 To this end, Kickstarter campaign funding data for years ranging from mid 2009 to early 2017 were selected obtained and analysis was performed.
   
 ## Analysis and Challenges
@@ -15,7 +15,9 @@ The figure above was generated via Excel as a pivot chart based off of a pivot t
 This pivot table accumulated the outcomes of all Kickstarter campaigns categorized as the "theater" type sorted by their monthly launch date.
 This chart easily allows one to visualize and interpret the monthly successes, failures, and cancellations of the campaigns launch dates.
 
-The creation of the pivot table was the most challenging part.
+![outcomes based on launch date pivot table](/resources/Theater_Outcomes_vs_Launch_Pivot_Table.png)
+
+The creation of the pivot table above was the most challenging part.
 The default Kickstarter data doesn't have a column for months.
 Fortunately, the month is contained in the start date for the campaigns.
 Thus generating the months as rows was a relatively simple task.
