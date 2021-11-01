@@ -19,7 +19,7 @@ This chart easily allows one to visualize and interpret the monthly successes, f
 ![outcomes based on goals](/resources/Outcomes_vs_Goals.png)
 
 The figure above was generated without the use of a pivot table.
-The analysis for this particular figure was done with several COUNTIFS() functions.
+The analysis for this particular figure was done with several `COUNTIFS()` functions.
 As such the columns and rows were not readily available in the provided data so a few intermediate calculations had to be done to generate the necessary data for the figure.
 This figure easily lets one view the percentage of successful, failed, and canceled play Kickstarter projects organized by their funding goals.
 
@@ -34,7 +34,7 @@ All one has to do is group the rows by months as opposed to quarters.
 
 ![outcomes based on goals table](/resources/Outcomes_vs_Goals_Table.png)
 
-The main difficulty in generating the table above was the arguments for the COUNTIFS() functions.
+The main difficulty in generating the table above was the arguments for the `COUNTIFS()` functions.
 Much care has to be taken when adjusting the ranges manually, as it is incredibly easy to make a mistake in any one of the arguments.
 Aside from that one could also have difficulty selecting the appropriate columns to plot in the table.
 The simple solution is to hold the CTRL key and one can select non adjacent columns.
