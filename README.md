@@ -41,19 +41,19 @@ The simple solution is to hold the CTRL key and one can select non adjacent colu
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
-  -May appears to be the best month to start a theater Kickstarter campaign.
-  -In the month of December there are 37 successful campaigns and 35 failed campaigns. This would indicate that the probability that a theater Kickstarter campaign would get funded if it started in the month of December amounts to a coin flip.
+1. What are two conclusions you can draw about the Outcomes based on Launch Date?
+   -May appears to be the best month to start a theater Kickstarter campaign.
+   -In the month of December there are 37 successful campaigns and 35 failed campaigns. This would indicate that the probability that a theater Kickstarter campaign would get funded if it started in the month of December amounts to a coin flip.
 
-- What can you conclude about the Outcomes based on Goals?
-  -The probability for a play Kickstarter campaign getting funded appears to have approximately an 75% chance of getting funded as long as it is below $5000.
-  -The $35,000 - $45,000 range for plays seems to have a 65% chance of getting funded, however this percentage could be misleading. There were only 9 campaigns started in those price ranges over the course of the 9 year span. This low of a number of campaigns might not be enough to be indicative of the actual trend.
+2. What can you conclude about the Outcomes based on Goals?
+   -The probability for a play Kickstarter campaign getting funded appears to have approximately an 75% chance of getting funded as long as it is below $5000.
+   -The $35,000 - $45,000 range for plays seems to have a 65% chance of getting funded, however this percentage could be misleading. There were only 9 campaigns started in those price ranges over the course of the 9 year span. This low of a number of campaigns might not be enough to be indicative of the actual trend.
 
-- What are some limitations of this dataset?
-  -A major limitation of this data set is that its latest year for data is 2017. 
+3. What are some limitations of this dataset?
+   -A major limitation of this data set is that its latest year for data is 2017. 
 This is over a 3 year gap in data which could mean that for more recent Kickstarter campaigns the trends may no longer hold.
 Especially in light of the COVID pandemic the accuracy of the analysis for a Kickstarter campaign that would be starting more recently is likely to be low.
 
-- What are some other possible tables and/or graphs that we could create?
-  -An interesting graph that one could make would be the percentage successful, failed, and canceled for theaters and plays but based off of the length of the campaign.
+4. What are some other possible tables and/or graphs that we could create?
+   -An interesting graph that one could make would be the percentage successful, failed, and canceled for theaters and plays but based off of the length of the campaign.
 There may be a certain length of time that is more advantageous to have a project get funded.
