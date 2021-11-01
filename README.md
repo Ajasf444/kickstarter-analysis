@@ -17,9 +17,12 @@ This chart easily allows one to visualize and interpret the monthly successes, f
 
 The creation of the pivot table was the most challenging part.
 The default Kickstarter data doesn't have a column for months.
-However, the launch date does contain the month as part of its data.
-Thus generating the months as row was a relatively simple task.
+Fortunately, the month is contained in the start date for the campaigns.
+Thus generating the months as rows was a relatively simple task.
+All one has to do is group the rows by months as opposed to quarters.
 ### Analysis of Outcomes Based on Goals
+![outcomes based on goals](/resources/Outcomes_vs_Goals.png)
+
 
 ### Challenges and Difficulties Encountered
 
