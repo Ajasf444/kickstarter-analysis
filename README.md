@@ -3,7 +3,7 @@
 ## Overview of Project
 
 ### Purpose
-The client, Louise, would like to have an analysis done on annual Kickstarter funding data to make a more informed decision on how to make the launch of a Kickstarter campaign for her play, **Fever**, successful.
+  The client, Louise, would like to have an analysis done on annual Kickstarter funding data to make a more informed decision on how to make the launch of a Kickstarter campaign for her play, **Fever**, successful.
 To this end, Kickstarter campaign funding data for years ranging from mid 2009 to early 2017 were selected obtained and analysis was performed.
   
 ## Analysis and Challenges
